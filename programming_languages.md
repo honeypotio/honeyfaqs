@@ -42,5 +42,19 @@ We call "backend" all the languages that usually are used on a server and someho
 **Backend**: PHP, Java, Ruby, ASP, ASP.NET, C#, Scala, Clojure, Python, Javascript (NodeJS), Erlang, Elixir, Rust...
 
 # What is a framework?
+A framework is a collection of libraries that aims to let developers create applications with ease.
+Frameworks usually cover a large area of responsibilities. *Ruby on Rails*, for example, allows developers to create web applications doing a huge amount of tasks under the hood and keeping code bases as more standard (this means that new developers can join project with ease, deliver features faster and mantain easier the current ones) as possible thanks to the conventions it imposes to the developers. Also generally they're safer as most of the protection to common vulnerabilities are demanded to the framework itself.
+From the client side, they're usually useful because they keep applications cross-compatible among the browsers and devices (smartphones, tablets and so on).
 
 # What is the difference between Scala and Scala.js?
+Scala is a general purpose programming language based on the *Java Virtual Machine* (basically the "interpreter" used by the Java programming language).
+It rethinks the design of Java introducing the functional paradigm with a new syntax and contructs.
+
+Scala.js is a compiler that translates Scala to JavaScript.
+In this way, developers can write frontends directly in Scala, even though browsers can't run it (as, I would recall you, the only programming language browsers can understand is JavaScript – HTML and CSS are not programming languages!) since it's the Scala.js compiler that translates *on the fly* their Scala code to JavaScript.
+
+These kinds of compilers are also called *transpilers*. ClojureScript, TypeScript, Opal are other valid examples.
+
+# ES7 (or ECMAScript 2016 or ES2016)
+ES7 is the last iteration of ECMAScript, that is the programming language on which is JavaScript based on.
+It introduces new features, of which some are totally new and some other ones were possible only with additional libraries, like jQuery or Lodash/Underscore.

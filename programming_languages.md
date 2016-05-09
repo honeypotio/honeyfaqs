@@ -8,7 +8,7 @@ Today we have a huge amount of programming languages, most of them are very simi
 Computers, at a very low level, can understand only a language: the *machine code*.
 This means that the only way to make whichever language we decide to use work is to translate it to the machine code. This is what a compilers (that's basically another application that generates an executable file written in said language) do.
 
-Interpreters, on the other end, are softwares that read line-per-line a source code. Each line is translated and executed *on fly*, instead of generating an executable file that must be run separately.
+Interpreters, on the other end, are softwares that read line-per-line a source code. Each line is translated into an intermediate representation that is then executed *on the fly*, instead of generating an executable file that must be run separately.
 
 # What's the difference between Frontend (FE) and Backend (FE)
 In the acceptation we usually refer to, these terms distinguish the possibility of executing a language to generate code that will be run directly on the internet browsers (*client-side*) or instead working on the servers (*server-side*).

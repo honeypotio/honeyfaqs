@@ -1,13 +1,13 @@
 HoneyFAQs
 =========
-You ask, the 🐝  answers*
+You ask, the 🐻  answers.
 
 Submit a new question
 ---------------------
 - [Create](https://github.com/honeypotio/honeyfaqs/issues/new) a new issue
 - Write your question in the title
 - Feel free to write down additional information as comment for the issue
-- Biliv 🐝
+- Biliv 🐻 
 
 About the answers
 -----------------
@@ -15,5 +15,3 @@ This repository is for anyone who, not being a software developer or generally a
 
 The answers here provided are everything but exhaustive, but aim to be a good starting point for further research.
 
-
-\* actually her laziness requires the developers to do all the job

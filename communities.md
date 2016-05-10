@@ -9,7 +9,7 @@ When they got enough upvotes, links go on the top and could end up to the home p
 
 # What is IRC? And Reddit? And 4chan?
 IRC is one of the oldest instant messaging systems.
-Comparing to other popular messaging systems (MSN, Skype, Facebook Messenger, Slack...), IRC is distribuited, meaning that there is no a single server that hosts the users,
+Comparing to other popular messaging systems (MSN, Skype, Facebook Messenger, Slack...), IRC is distributed, meaning that there is no a single server that hosts the users,
 but everyone can create one for free (as in *freedom*). 
 
 Each server can hosts a large number of *channels*, that are basically rooms where the users can write in to the user guests.
@@ -25,7 +25,7 @@ In the same way of what happens on HackerNews, the entries and the relative comm
 4chan is one of the oldest image board of the web, inspired to the Japanese 2ch.
 The website provides many *boards* related to a topic (like the subbredits) where anonymous users can posts pictures or messages and start in this way a *thread*, with an user
 who replies to another one.
-4chan is quite popular also for the memes, trolls, flames it generates and spreads for the web.
+4chan is quite popular also for the memes, trolls, flames it generates and spreads around the web.
 
 # What is Slack?
 Slack can be seen as an centralized IRC-based messaging system. It is mostly used though the official client (the Slack app) and allows teams to collaborate together by talking and

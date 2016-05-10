@@ -16,4 +16,4 @@ This repository is for anyone who, not being a software developer or generally a
 The answers here provided are everything but exhaustive, but aim to be a good starting point for further research.
 
 
-\* actually she demands almost everything to the developers because of her laziness.
+\* actually her laziness requires the developers to do all the job

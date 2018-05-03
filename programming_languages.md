@@ -10,7 +10,7 @@ This means that the only way to make whichever language we decide to use work is
 
 Interpreters, on the other end, are softwares that read line-per-line a source code. Each line is translated into an intermediate representation that is then executed *on the fly*, instead of generating an executable file that must be run separately.
 
-# What's the difference between Frontend (FE) and Backend (FE)
+# What's the difference between Frontend (FE) and Backend (BE)
 In the acceptation we usually refer to, these terms distinguish the possibility of executing a language to generate code that will be run directly on the internet browsers (*client-side*) or instead working on the servers (*server-side*).
 
 The languages that browsers understand are basically HTML, CSS and JavaScript (not the only, but for sure the most used :)). The HTML is a language that describes the layout of a page and its content and allows the injection of external resources, as the CSS that defines its visual style and the JavaScript is a programming language that allows to manipulate all the elements in the page, HTML and CSS included.
